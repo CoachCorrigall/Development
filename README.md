@@ -13,3 +13,4 @@ The account balance SQL statement is the primary view populating the building di
 
 The "build SQL source statement" code was a collaborative project to support the initiative of loading metadata from a SQL source into a target location (an azure data lake or azure SQL database) in a more systematic and repeatable way. Most of the underlying metadata tables in the code are streamlined "create table" statements that mimic the sys.<insert_table> columns from a SQL server source.
 
+The "create_f_ns_SalesOrderLine" SQL statement shows a typical way that I would handle merges from a lower layer of the warehouse into a more refined layer for reporting purposes.
