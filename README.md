@@ -3,8 +3,8 @@
 This is a repository that shows some of the work I have developed over the last year. 
 As of the end of March, I have two power BI files and a three SQL files for review.
 
-**UPDATE**
-Adding zip files that show pipelines I have created in the past for data movement jobs. 
+**UPDATE (04/02/2024):**
+Adding zip files that show pipelines I have created in the past for data movement jobs in Azure sysnapse/Azure Data Factory. Most of these files can only be exported as templates inside the Azure tool and will need to have linked services setup to work as expected. 
 
 ## Power BI Reports
 The NBA reporting package is a project I have developed in my free time. This report allows me to bring together two things I love in life - basketball and data.
