@@ -3,6 +3,9 @@
 This is a repository that shows some of the work I have developed over the last year. 
 As of the end of March, I have two power BI files and a three SQL files for review.
 
+**UPDATE**
+Adding zip files that show pipelines I have created in the past for data movement jobs. 
+
 ## Power BI Reports
 The NBA reporting package is a project I have developed in my free time. This report allows me to bring together two things I love in life - basketball and data.
 
